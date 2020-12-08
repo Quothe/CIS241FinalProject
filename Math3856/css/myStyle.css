@@ -1,0 +1,66 @@
+
+/*style sheet for personal website */
+body
+{
+margin-top:24px;
+margin-bottom:24px;
+margin-right:100px;
+margin-left:100px;
+background-color:#ffffff;
+font-family: verdana;
+}
+
+head
+{
+margin-top:24px;
+margin-bottom:24px;
+margin-right:100px;
+margin-left:100px;
+font-family: verdana;
+}
+
+h1
+{
+font-weight: bold;
+text-decoration: underline;
+color: #EE3333;
+font-size: 160%;
+margin-bottom: 25px;
+margin-top:0px;
+font-family: verdana;
+}
+
+h2
+{
+font-family: verdana;
+}
+
+h3
+{
+font-family: verdana;
+}
+
+h4
+{
+font-family: verdana;
+}
+
+h5
+{
+font-family: verdana;
+}
+
+h6
+{
+font-family: verdana;
+}
+a
+{
+font-family: verdana;
+}
+p
+{
+font-family: verdana;
+}
+	
+	
